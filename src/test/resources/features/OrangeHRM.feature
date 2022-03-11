@@ -1,4 +1,4 @@
-@OrangeHRMApp
+@regression @OrangeHRMApp
 Feature: Validating timesheet functionalities
   Background:
     Given user navigates to OrangeHRM app and provides "Admin" for username and "admin123" for password and click login button
